@@ -39,8 +39,8 @@
           "201": {
             "description": "Created"
           },
-          "500": {
-            "description": "User Already Exists"
+          "400": {
+            "description": "Email Already Exists"
           }
         }
       }
